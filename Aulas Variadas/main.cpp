@@ -73,11 +73,6 @@ int main()
     //}
 
 
-    // Aula 24
-    // Operadores Lógicos
-
-
-
 
 
     system("pause");
